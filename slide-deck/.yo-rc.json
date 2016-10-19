@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Grails, Gradle and Node.js",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "willbuck",
+    "githubRepository": "g3-2016-grails-gradle-node"
+  }
+}
