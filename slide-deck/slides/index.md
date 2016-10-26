@@ -1,5 +1,5 @@
 
-# Grails, Gradle and Node.js
+## Grails, Gradle & Node.js
 
 Using the Right Tool for the Job
 
@@ -23,8 +23,9 @@ Using the Right Tool for the Job
 </p>
 </div>
 
-<div style="clear: both;">
-Follow along with the slides here! http://tinyurl.com/g3-node-grails
+<div style="clear: both; padding-top: 30px">
+<p>Follow along with the slides here!</p> 
+<p>http://tinyurl.com/g3-node-grails </p>
 </div>
 
 note:

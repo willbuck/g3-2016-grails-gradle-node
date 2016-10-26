@@ -1,7 +1,4 @@
-##  About the Presenters
-
-This is a new Markdown slide
+##  About Us
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- 

@@ -1,6 +1,12 @@
 [
     "index.md",
     "about-the-presenters.md",
+    [
+        "about-will/title.about-will.md",
+        "about-will/play.about-will.md",
+        "about-will/mn.about-will.md",
+        "about-will/code.about-will.md"
+    ],
     "overview.md",
     "who-this-is-for.md",
     "gradle-node.md",
