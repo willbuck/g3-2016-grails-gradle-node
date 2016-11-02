@@ -1,5 +1,6 @@
 [
     "index.md",
+    "overview/title.overview.md",
     "about-the-presenters.md",
     [
         "about-will/title.about-will.md",
@@ -7,11 +8,22 @@
         "about-will/mn.about-will.md",
         "about-will/code.about-will.md"
     ],
-    "overview.md",
-    "who-this-is-for.md",
-    "gradle-node.md",
-    "project-structure.md",
-    "case-study-react.md",
-    "case-study-angular-2.md",
+    [
+        "about-zach/title.about-zach.md"
+    ],
+    [
+        "overview/who-this-is-for.overview.md",
+        "overview/who-this-isnt-for.overview.md",
+        "overview/project-structure.overview.md"
+    ],
+    [
+        "gradle-node-plugin/title.gradle-node.md"
+    ],
+    [
+        "case-study-ng2/title.case-study-ng2.md"
+    ],
+    [
+        "case-study-react/title.case-study-react.md"
+    ],    
     "conclusion.md"
 ]

@@ -11,12 +11,14 @@ import { AppComponent } from './app.component';
 import { rootRouterConfig } from './app.routes';
 import { NavComponent } from './nav/nav.component';
 import { NavService } from './nav/nav.service';
+import { PlayerComponent } from './player/player.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
-    IndexComponent
+    IndexComponent,
+    PlayerComponent
   ],
   imports: [
     BrowserModule,

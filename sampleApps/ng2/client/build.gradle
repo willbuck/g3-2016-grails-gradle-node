@@ -5,6 +5,7 @@ plugins {
 node {
     version = '6.6.0'
     npmVersion = '3.10.7'
+    download = true
 }
 
 task bootRun(type: NpmTask, dependsOn: 'npmInstall') {
