@@ -1,15 +1,14 @@
-import { Ng2ProjectPage } from './app.po';
+import { Ng2Page } from './app.po';
 
-describe('ng2-project App', function() {
-  let page: Ng2ProjectPage;
+describe('ng2 App', function() {
+  let page: Ng2Page;
 
   beforeEach(() => {
-    page = new Ng2ProjectPage();
+    page = new Ng2Page();
   });
 
-  it('should have the correct title', () => {
+  it('should display message saying app works', () => {
     page.navigateTo();
-    expect(page.getHeading()).toEqual('Welcome to Grails');
-    expect(page.getTitle()).toEqual('Welcome to Grails');
+    expect(page.getParagraphText()).toEqual('app works!');
   });
 });

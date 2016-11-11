@@ -173,4 +173,8 @@
     <orderEntry type="library" name="Gradle: com.goldmansachs:gs-collections-api:5.1.0" level="project" />
     <orderEntry type="library" name="Gradle: commons-validator:commons-validator:1.5.1" level="project" />
   </component>
+  <component name="RModuleSettingsStorage">
+    <LOAD_PATH number="0" />
+    <I18N_FOLDERS number="1" string0="$MODULE_DIR$/../../../server/grails-app/i18n" />
+  </component>
 </module>
