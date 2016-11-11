@@ -1,7 +1,4 @@
-##  About the Presenters
-
-This is a new Markdown slide
+##  A Little Background About Us
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- First Will, then Zach

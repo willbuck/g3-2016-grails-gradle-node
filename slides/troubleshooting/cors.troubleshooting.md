@@ -1,0 +1,8 @@
+## CORS
+
+- **C**ross **O**rigin **R**esource **S**haring
+- Supported out of the box in Grails 3.1
+
+note:
+    - Previously got around this by running an Express.js forwarding server for frontend
+    - YMMV based on security settings in your org (TODO is this right?)
