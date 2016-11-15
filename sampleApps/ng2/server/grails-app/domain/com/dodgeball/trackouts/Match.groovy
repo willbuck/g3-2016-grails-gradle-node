@@ -3,12 +3,10 @@ package com.dodgeball.trackouts
 
 import grails.rest.*
 
-import java.time.LocalDateTime
-
 @Resource(readOnly = false, formats = ['json', 'xml'])
 class Match {
     // Where
-    Tournament tournament
+    static belongsTo = [tournament: Tournament]
     Court court
 
     // When

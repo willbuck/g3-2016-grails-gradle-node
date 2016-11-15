@@ -8,5 +8,11 @@ class Team {
     String teamName
     String homeCity
 
-    static hasMany = [players: Player]
+    static belongsTo = Tournament
+
+    static hasMany = [players: Player, tournaments: Tournament]
+
+    static mapping = {
+        tournaments joinTable: [name: "tournament_teams", key: 'team_id' ]
+    }
 }

@@ -7,7 +7,7 @@ import grails.rest.*
 class Statistic {
     Game game
 
-    Player primaryPlayer
+    Player player
     Player opposingPlayer
 
     StatisticType type

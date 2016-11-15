@@ -13,4 +13,8 @@ class Player {
     Team team
 
     static hasMany = [stats: Statistic]
+
+    static constraints = {
+        emailAddress nullable: true
+    }
 }

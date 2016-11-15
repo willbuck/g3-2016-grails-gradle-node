@@ -11,4 +11,8 @@ class Tournament {
     Venue venue
 
     static hasMany = [teams: Team, matches: Match]
+
+    static mapping = {
+        teams joinTable: [name: "tournament_teams", key: 'tournament_id' ]
+    }
 }
