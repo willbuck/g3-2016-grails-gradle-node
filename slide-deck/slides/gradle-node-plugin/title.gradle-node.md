@@ -1,6 +1,6 @@
-##  Gradle + Node
+#  Gradle + Node
 
-This is a new Markdown slide
+How It Works
 
 note:
     Put your speaker notes here.
