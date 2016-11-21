@@ -1,3 +1,3 @@
-# Tasks Provided
+## Tasks Provided
 
-TODO show default tasks and how to extended
+<img src="img/ss-plugin-tasks.png"/>

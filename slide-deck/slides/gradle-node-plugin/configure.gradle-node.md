@@ -1,3 +1,3 @@
-# How To Configure
+## How To Setup / Configure
 
-TODO show gradle file configuration
+<img src="img/ss-plugin-configure.png" style="height: 400px;"/>

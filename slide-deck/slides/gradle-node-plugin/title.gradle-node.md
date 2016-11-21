@@ -1,7 +1,7 @@
 #  Gradle + Node
 
-How It Works
+<img src="img/ss-plugin-github.png"/>
+[https://github.com/srs/gradle-node-plugin](https://github.com/srs/gradle-node-plugin)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Transition into configuring

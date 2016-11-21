@@ -11,3 +11,6 @@ If you haven't installed grunt globablly:
 `bower install`
 
 `grunt serve`
+
+
+# TODO 

@@ -19,7 +19,8 @@
     [
         "gradle-node-plugin/title.gradle-node.md",
         "gradle-node-plugin/configure.gradle-node.md",
-        "gradle-node-plugin/tasks.gradle-node.md"
+        "gradle-node-plugin/tasks.gradle-node.md",
+        "gradle-node-plugin/creating-tasks.gradle-node.md"
     ],
     [
         "recommended/title.recommended.md",
@@ -37,8 +38,7 @@
     ],
     [
         "case-study-react/title.case-study-react.md"
-    ],
-    
+    ],    
     [
         "troubleshooting/title.troubleshooting.md",
         "troubleshooting/cors.troubleshooting.md"

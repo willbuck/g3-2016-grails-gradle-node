@@ -1,1 +1,1 @@
-# Recommendations for use
+# Recommendations

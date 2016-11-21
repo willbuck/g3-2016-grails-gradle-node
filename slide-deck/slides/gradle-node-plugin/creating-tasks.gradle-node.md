@@ -1,3 +1,7 @@
-# Making your own tasks
+## Making your own tasks
 
-TODO show how to execute node scripts with the tasks
+```
+task integrationTest(type: NpmTask, dependsOn: 'npmInstall') {
+    args = ['run', 'e2e']
+}
+```
