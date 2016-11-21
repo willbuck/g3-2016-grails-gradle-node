@@ -13,13 +13,22 @@
         "about-zach/interests.about-zach-md.md"
     ],
     [
-        "overview/title.overview.md",
         "overview/who-this-is-for.overview.md",
-        "overview/who-this-isnt-for.overview.md",
-        "overview/project-structure.overview.md"
+        "overview/who-this-isnt-for.overview.md"        
     ],
     [
-        "gradle-node-plugin/title.gradle-node.md"
+        "gradle-node-plugin/title.gradle-node.md",
+        "gradle-node-plugin/configure.gradle-node.md",
+        "gradle-node-plugin/tasks.gradle-node.md",
+        "gradle-node-plugin/creating-tasks.gradle-node.md"
+    ],
+    [
+        "recommended/title.recommended.md",
+        "recommended/grails.recommended.md",
+        "recommended/project-structure.recommended.md"
+    ],
+    [
+        "development/title.development.md"
     ],
     [
         "deployment/title.deployment.md"
@@ -29,7 +38,7 @@
     ],
     [
         "case-study-react/title.case-study-react.md"
-    ],
+    ],    
     [
         "troubleshooting/title.troubleshooting.md",
         "troubleshooting/cors.troubleshooting.md"
