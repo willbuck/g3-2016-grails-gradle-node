@@ -14,3 +14,8 @@ If you haven't installed grunt globablly:
 
 
 # TODO 
+- Fill in About Zach (Zach)
+- Fill in dev / deploy sections
+- Fill in React section (Zach)
+- Fill in Ng2 section
+- Fill in troubleshooting section

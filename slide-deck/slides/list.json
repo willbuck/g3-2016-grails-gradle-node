@@ -34,14 +34,22 @@
         "deployment/title.deployment.md"
     ],
     [
-        "case-study-ng2/title.case-study-ng2.md"
+        "case-study-ng2/title.case-study-ng2.md",
+        "case-study-ng2/grails-profile.case-study-ng2.md",
+        "case-study-ng2/cli.case-study-ng2.md",
+        "case-study-ng2/local-dev.case-study-ng2.md",
+        "case-study-ng2/testing.case-study-ng2.md",
+        "case-study-ng2/deployment.case-study-ng2.md",
+        "case-study-ng2/demo.case-study-ng2.md",
+        "case-study-ng2/plans.case-study-ng2.md"
     ],
     [
         "case-study-react/title.case-study-react.md"
     ],    
     [
         "troubleshooting/title.troubleshooting.md",
-        "troubleshooting/cors.troubleshooting.md"
+        "troubleshooting/cors.troubleshooting.md",
+        "troubleshooting/node-errors.troubleshooting.md"
     ],
     "conclusion.md"    
 ]
