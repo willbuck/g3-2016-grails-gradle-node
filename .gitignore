@@ -5,4 +5,5 @@
 **/dist
 **/*.log
 **/.sass-cache
+**/.idea*
 slide-deck/index.html

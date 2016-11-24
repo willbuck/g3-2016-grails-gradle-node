@@ -4,6 +4,6 @@
 
 Runs front-end unit tests, then backend, in sequence
 
-`./gradlew test`
+`./gradlew integrationTest`
 
 Runs grails integration tests & protractor end-to-end tests

@@ -1,6 +1,7 @@
 [
     "index.md",
     "overview/title.overview.md",
+    "overview/prep-for-examples.overview.md",
     "about-the-presenters.md",
     [
         "about-will/title.about-will.md",
@@ -12,6 +13,7 @@
         "about-zach/title.about-zach.md",
         "about-zach/interests.about-zach-md.md"
     ],
+    "about-oci.md",
     [
         "overview/who-this-is-for.overview.md",
         "overview/who-this-isnt-for.overview.md"        
@@ -28,10 +30,15 @@
         "recommended/project-structure.recommended.md"
     ],
     [
-        "development/title.development.md"
+        "development/title.development.md",
+        "development/choice-of-tooling.development.md",
+        "development/focus-on-apis.development.md",
+        "development/uniform-testing.development.md"
     ],
     [
-        "deployment/title.deployment.md"
+        "deployment/title.deployment.md",
+        "deployment/use-existing-tools.deployment.md",
+        "deployment/separate-or-together.deployment.md"
     ],
     [
         "case-study-ng2/title.case-study-ng2.md",
@@ -51,5 +58,6 @@
         "troubleshooting/cors.troubleshooting.md",
         "troubleshooting/node-errors.troubleshooting.md"
     ],
-    "conclusion.md"    
+    "conclusion.md",
+    "thanks.md"    
 ]
