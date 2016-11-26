@@ -11,13 +11,14 @@
     ],
     [
         "about-zach/title.about-zach.md",
-        "about-zach/interests.about-zach.md",
-        "about-zach/hobbies.about-zach.md"
+        "about-zach/bio.about-zach.md",
+        "about-zach/family.about-zach.md",
+        "about-zach/react.about-zach.md"
     ],
     "about-oci.md",
     [
         "overview/who-this-is-for.overview.md",
-        "overview/who-this-isnt-for.overview.md"        
+        "overview/who-this-isnt-for.overview.md"
     ],
     [
         "nodejs/title.nodejs.md",
@@ -62,12 +63,12 @@
     ],
     [
         "case-study-react/title.case-study-react.md"
-    ],    
+    ],
     [
         "troubleshooting/title.troubleshooting.md",
         "troubleshooting/cors.troubleshooting.md",
         "troubleshooting/node-errors.troubleshooting.md"
     ],
     "conclusion.md",
-    "thanks.md"    
+    "thanks.md"
 ]

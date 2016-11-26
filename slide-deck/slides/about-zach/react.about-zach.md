@@ -1,6 +1,6 @@
-## Interests
+##  React
 
-React ;)
+![OCI-Logo](img/react.png)
 
 note:
     Put your speaker notes here.
