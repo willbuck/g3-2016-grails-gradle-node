@@ -62,7 +62,13 @@
         "case-study-ng2/plans.case-study-ng2.md"
     ],
     [
-        "case-study-react/title.case-study-react.md"
+        "case-study-react/title.case-study-react.md",
+        "case-study-react/structure.case-study-react.md",
+        "case-study-react/code.case-study-react.md",
+        "case-study-react/webpack-config.case-study-react.md",
+        "case-study-react/react-package-json.case-study-react.md",
+        "case-study-react/react-gradle.case-study-react.md"
+
     ],
     [
         "troubleshooting/title.troubleshooting.md",
