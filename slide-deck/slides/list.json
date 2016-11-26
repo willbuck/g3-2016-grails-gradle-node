@@ -11,12 +11,22 @@
     ],
     [
         "about-zach/title.about-zach.md",
-        "about-zach/interests.about-zach-md.md"
+        "about-zach/interests.about-zach.md",
+        "about-zach/hobbies.about-zach.md"
     ],
     "about-oci.md",
     [
         "overview/who-this-is-for.overview.md",
         "overview/who-this-isnt-for.overview.md"        
+    ],
+    [
+        "nodejs/title.nodejs.md",
+        "nodejs/right-tool.nodejs.md",
+        "nodejs/how.nodejs.md",
+        "nodejs/build-file.nodejs.md",
+        "nodejs/package-info.nodejs.md",
+        "nodejs/dependencies.nodejs.md",
+        "nodejs/scripts.nodejs.md"
     ],
     [
         "gradle-node-plugin/title.gradle-node.md",
