@@ -1,4 +1,4 @@
-##  Who this talk is for
+##  Who this approach is for
 
 - Large, Distributed Teams
 - Small teams looking to attract specialized front-end talent
