@@ -1,4 +1,4 @@
-##  Who this talk is not for
+##  Who this approach is not for
 
 - Small teams happy with their current full-stack tooling
 - Teams highly invested in the asset-pipeline plugin ecosystem (which is great at what it does, make no mistake)

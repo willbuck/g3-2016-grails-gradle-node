@@ -14,7 +14,7 @@ Using the Right Tool for the Job
 </div>
 
 <div style="float: right;">
-<img src="img/will-profile-400.jpg" style="height: 300px;"/>
+<img src="img/zak.jpg" style="height: 300px;"/>
 <p>
 [@ZacharyAKlein](http://www.twitter.com/ZacharyAKlein)
 </p>
@@ -24,9 +24,8 @@ Using the Right Tool for the Job
 </div>
 
 <div style="clear: both; padding-top: 30px">
-<p>Follow along with the slides here!</p> 
+<p>Follow along with the slides here!</p>
 <p>http://tinyurl.com/g3-node-grails </p>
 </div>
 
 note:
-- TODO Need a pic of Zach here

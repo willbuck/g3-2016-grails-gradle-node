@@ -1,7 +1,9 @@
 ##  Conclusion
 
-This is a new Markdown slide
+<img src="img/node-all-things.jpg" style="height: 400px;"/>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- Basically if you've learned anything here, NodeJs is web scale
+- Jokes aside though, the tool chain in Node for front-end tools will always be a step ahead
+- The ecosystem is mature enough now to get into it 
+- Your JS devs will thank you for it :)
