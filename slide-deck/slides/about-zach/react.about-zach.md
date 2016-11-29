@@ -1,7 +1,6 @@
 ##  React
 
-![OCI-Logo](img/react.png)
+<img src="img/react.png" style="width: 550px;"/>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+React is dope ;) 

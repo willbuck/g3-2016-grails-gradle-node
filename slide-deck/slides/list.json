@@ -38,6 +38,8 @@
     [
         "recommended/title.recommended.md",
         "recommended/grails.recommended.md",
+        "recommended/webpack.recommended.md",
+        "recommended/nvm.recommended.md",
         "recommended/project-structure.recommended.md"
     ],
     [
