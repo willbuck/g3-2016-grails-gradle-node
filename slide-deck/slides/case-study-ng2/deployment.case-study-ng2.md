@@ -1,6 +1,11 @@
 ## Deploying Angular 2 + Grails Apps
 
-- Major choice is separate or together
+- `ng build --prod`, ship dist folder
 
 note:
-- TODO do I need two slides to dive into each of these options?
+- Recommending separting them
+- To ship together, you'll want to roll similar to angular 1 or react 1 profile
+- That would use 
+    - src/ folder to "separate" the apps, 
+    - ng cli to build & copy (instead of webpack direct like react 1),
+    - asset-pipeline to serve from war
