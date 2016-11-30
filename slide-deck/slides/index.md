@@ -28,4 +28,8 @@ Using the Right Tool for the Job
 <p>http://tinyurl.com/g3-node-grails </p>
 </div>
 
+<div style="padding-top: 10px">
+<a href="https://github.com/willbuck/g3-2016-grails-gradle-node">View Sample Code on Github</a>
+</div>
+
 note:
