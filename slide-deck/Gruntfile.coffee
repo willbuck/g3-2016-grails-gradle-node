@@ -56,6 +56,7 @@ module.exports = (grunt) ->
 
             options:
                 jshintrc: '.jshintrc'
+                reporterOutput: ""
 
             all: ['js/*.js']
 
