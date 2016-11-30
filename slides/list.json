@@ -75,7 +75,8 @@
     [
         "troubleshooting/title.troubleshooting.md",
         "troubleshooting/cors.troubleshooting.md",
-        "troubleshooting/node-errors.troubleshooting.md"
+        "troubleshooting/node-errors.troubleshooting.md",
+        "troubleshooting/others.troubleshooting.md"
     ],
     "conclusion.md",
     "thanks.md"
