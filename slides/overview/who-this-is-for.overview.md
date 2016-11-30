@@ -6,4 +6,4 @@
 - Back-end teams uninterested in "javascript fatigue"
 
 note:
-    - Try not to turn anyone off too hard here
+- Try not to turn anyone off too hard here
