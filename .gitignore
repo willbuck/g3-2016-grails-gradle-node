@@ -6,4 +6,6 @@
 **/*.log
 **/.sass-cache
 **/.idea*
+**/bundle-books.js
+**/bundle-index.js
 slide-deck/index.html
