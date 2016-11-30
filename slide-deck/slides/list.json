@@ -2,11 +2,15 @@
     "index.md",
     "overview/title.overview.md",
     "overview/prep-for-examples.overview.md",
+    [
+        "overview/who-this-is-for.overview.md",
+        "overview/who-this-isnt-for.overview.md"
+    ],
     "about-the-presenters.md",
     [
-        "about-will/title.about-will.md",
-        "about-will/play.about-will.md",
+        "about-will/title.about-will.md",        
         "about-will/mn.about-will.md",
+        "about-will/play.about-will.md",
         "about-will/code.about-will.md"
     ],
     [
@@ -15,11 +19,7 @@
         "about-zach/family.about-zach.md",
         "about-zach/react.about-zach.md"
     ],
-    "about-oci.md",
-    [
-        "overview/who-this-is-for.overview.md",
-        "overview/who-this-isnt-for.overview.md"
-    ],
+    "about-oci.md",    
     [
         "nodejs/title.nodejs.md",
         "nodejs/right-tool.nodejs.md",
@@ -55,10 +55,10 @@
     ],
     [
         "case-study-ng2/title.case-study-ng2.md",
-        "case-study-ng2/grails-profile.case-study-ng2.md",
-        "case-study-ng2/cli.case-study-ng2.md",
+        "case-study-ng2/grails-profile.case-study-ng2.md",        
         "case-study-ng2/local-dev.case-study-ng2.md",
         "case-study-ng2/testing.case-study-ng2.md",
+        "case-study-ng2/cli.case-study-ng2.md",
         "case-study-ng2/deployment.case-study-ng2.md",
         "case-study-ng2/demo.case-study-ng2.md",
         "case-study-ng2/plans.case-study-ng2.md"

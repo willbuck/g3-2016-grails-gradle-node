@@ -23,4 +23,5 @@ A.K.A. Node's `build.gradle`
 ```
 
 note:
-- Let's break this down quick, piece by piece
+- The heart of every node project
+- Lots going on in here, let's break each portion into chunks and talk about what they do
