@@ -2,6 +2,8 @@
 
 Happy to take questions!
 
+<img src="img/thanks.gif" style="height: 400px;"/>
+
 note:
 - Been a priviledge to talk at big event like this
 - Happy to answer questions now for everyone's benefit
